@@ -45,4 +45,4 @@
 * API integrations
 * Dedicated support
 
-[Ready to give it a try?](https://privato.pub?ref=gh) Get 50% off your first three months with code **PRIVATO50THREE**.
+[Ready to give it a try?](https://privato.pub?ref=gh) Get 50% off your first three months of Privato Pro with code **PRIVATO50THREE**.
