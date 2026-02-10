@@ -6,12 +6,14 @@
 
 ### Features
 
-* Private Composer registry that serves your licenses packages.
+* Private Composer registry that serves your licensed packages.
 * License-based access to control who can access your packages.
 * GitHub integration to automatically sync releases and changelogs.
 * Billing provider integrations so you can make money from your work.
 * Public package pages for your customers to keep up to date.
-* Basic analytics for tracking downloads and usage patterns.
+* Analytics
+* Custom domains for on-brand marketing
+* And much more...
 
 ### How it works
 
