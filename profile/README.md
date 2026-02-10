@@ -19,30 +19,4 @@
 2. Define access rules.
 3. Distribute your package.
 
-### Pricing
-
-#### Free – $0/month
-
-* 1 private package
-* Unlimited licenses
-* Basic license management
-
-#### Pro – $12/month
-
-* Unlimited packages
-* Unlimited licenses
-* Billing integrations
-* Hosted customer pages
-* Release channels
-* Basic support
-
-#### Business – $50/month
-
-* Everything in Pro
-* Analytics
-* Team sharing
-* Custom domains
-* API integrations
-* Dedicated support
-
-[Ready to give it a try?](https://privato.pub?ref=gh) Get 50% off your first three months of Privato Pro with code **PRIVATO50THREE**.
+[Ready to give it a try?](https://privato.pub?ref=gh)
